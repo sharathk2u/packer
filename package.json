@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "beta",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
